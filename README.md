@@ -1,6 +1,4 @@
 # CRISP-DM-UDACITY-P1
-# CRISP-DM-UDACITY-P1
-# CRISP-DM-UDACITY-P1
 In this project, I used several different Python libraries. They include the following:
     1. Matplotlib
     2. Pandas
